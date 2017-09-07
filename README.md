@@ -11,3 +11,6 @@ A list of cool web radios
 - Soho Radio - [website](http://www.sohoradiolondon.com/)
 - Radio Meuh - [website](http://www.radiomeuh.com/) | featuring Laurent Garnier "This is what it is"
 - Boiler Room - [website](https://boilerroom.tv/) | not really a web radio, but some cool dj mixes
+- Bon Entendeur - [website](http://bonentendeur.com/) | One hour to discover music and artist best quotes
+- HACKER - [website](https://open.spotify.com/user/wutangbifi/playlist/0Jt2JW0NTIL6MvV9dSOnqZ) | Spotify playlist to find the flow when you are coding
+
