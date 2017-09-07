@@ -13,8 +13,9 @@ A list of cool web radios
 - Boiler Room - [website](https://boilerroom.tv/) | not really a web radio, but some cool dj mixes
 - Bon Entendeur - [website](http://bonentendeur.com/) | one hour to discover music and artist best quotes
 - HACKER - [website](https://open.spotify.com/user/wutangbifi/playlist/0Jt2JW0NTIL6MvV9dSOnqZ) | spotify playlist to find the flow when you are coding
+- di.fm - [website](https://www.di.fm) | a web radio for electronic music lovers with a different sation for each genre
 
 
 ## misc
 
-- [radio garden](http://radio.garden) | explore live radio by rotating the globe. 
+- [radio garden](http://radio.garden) | explore live radio by rotating the globe.
