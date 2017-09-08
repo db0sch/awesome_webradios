@@ -9,9 +9,10 @@ A list of cool web radios
 - Rinse FM - [website](http://rinse.fm/) | one of the most famous web radio - really into techno / house
 - Red Light Radio - [website](http://redlightradio.net/) | amsterdam radio
 - The Lot - [website](http://www.thelotradio.com/) | brooklyn radio
-- Radar Radio - [website](http://www.radarradio.com/)
-- Soho Radio - [website](http://www.sohoradiolondon.com/)
+- Radar Radio - [website](http://www.radarradio.com/) | london radio
+- Soho Radio - [website](http://www.sohoradiolondon.com/) | london radio
 - Radio Meuh - [website](http://www.radiomeuh.com/) | featuring Laurent Garnier "This is what it is"
+- Le Mellotron - [website](http://www.lemellotron.com/) | paris radio
 
 ## misc
 
