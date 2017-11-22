@@ -25,3 +25,4 @@ A list of cool web radios
 - di.fm - [website](https://www.di.fm) | a web radio for electronic music lovers with a different sation for each genre
 - Reverberation [website](http://reverberationradio.com/) | weekly mixes of largely forgotten tracks drawing from decades of strange pop and instrumentals
 - radiooooo - [website](http://radiooooo.com/) | stream radio by country and years
+- Foreign Rap - [website](http://www.foreignrap.com/)
