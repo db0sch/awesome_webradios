@@ -15,6 +15,7 @@ A list of cool web radios
 - Le Mellotron - [website](http://www.lemellotron.com/) | paris radio
 - Mukambo - [website](http://www.mukambo.be/) | tropical music
 - WeFunk - [website](http://www.wefunkradio.com/radio/play) | hip hop, funk & soul from Montreal
+- Bandcamp Weekly - [website](https://bandcamp.com/)
 
 ## misc
 
