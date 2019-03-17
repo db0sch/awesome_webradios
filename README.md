@@ -27,3 +27,4 @@ A list of cool web radios
 - Reverberation [website](http://reverberationradio.com/) | weekly mixes of largely forgotten tracks drawing from decades of strange pop and instrumentals
 - radiooooo - [website](http://radiooooo.com/) | stream radio by country and years
 - Foreign Rap - [website](http://www.foreignrap.com/) | enjoy international rap music
+- Generative.fm - [website](https://generative.fm/) | Endlessly unique ambient music
