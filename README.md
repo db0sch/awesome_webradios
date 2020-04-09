@@ -16,6 +16,7 @@ A list of cool web radios
 - Mukambo - [website](http://www.mukambo.be/) | tropical music
 - WeFunk - [website](http://www.wefunkradio.com/radio/play) | hip hop, funk & soul from Montreal
 - Bandcamp Weekly - [website](https://bandcamp.com/)
+- Tsugi Radio - [website](https://www.tsugi.fr/tsugi-radio/) | paris radio (in fr)
 
 ## misc
 
