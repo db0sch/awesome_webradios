@@ -30,3 +30,5 @@ A list of cool web radios
 - radiooooo - [website](http://radiooooo.com/) | stream radio by country and years
 - Foreign Rap - [website](http://www.foreignrap.com/) | enjoy international rap music
 - Generative.fm - [website](https://generative.fm/) | Endlessly unique ambient music
+- Mailta.pe - [website](https://www.mailta.pe/) | Every Sunday morning, a music selection curated with a guest
+- Poolside - [website](https://poolside.fm/) | Palm trees, beaches, Ferraris... The 80's (just check it out, it's awesome)
