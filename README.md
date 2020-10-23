@@ -17,6 +17,7 @@ A list of cool web radios
 - WeFunk - [website](http://www.wefunkradio.com/radio/play) | hip hop, funk & soul from Montreal
 - Bandcamp Weekly - [website](https://bandcamp.com/)
 - Tsugi Radio - [website](https://www.tsugi.fr/tsugi-radio/) | paris radio (in fr)
+- Kiosk Radio - [website](https://kioskradio.com/) | brussels radio (with the one and only Lefto)
 
 ## misc
 
