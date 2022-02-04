@@ -18,6 +18,7 @@ A list of cool web radios
 - Bandcamp Weekly - [website](https://bandcamp.com/)
 - Tsugi Radio - [website](https://www.tsugi.fr/tsugi-radio/) | paris radio (in fr)
 - Kiosk Radio - [website](https://kioskradio.com/) | brussels radio (with the one and only Lefto)
+- FluxFM - [website](https://www.fluxfm.de/) | berlin radio (Die Alternative im Radio)
 
 ## misc
 
