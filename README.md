@@ -19,6 +19,8 @@ A list of cool web radios
 - Tsugi Radio - [website](https://www.tsugi.fr/tsugi-radio/) | paris radio (in fr)
 - Kiosk Radio - [website](https://kioskradio.com/) | brussels radio (with the one and only Lefto)
 - FluxFM - [website](https://www.fluxfm.de/) | berlin radio (Die Alternative im Radio)
+- Hör Berlin - [website](https://hoer.live) | berlin radio (techno)
+- Cashmere Radio - [website](https://cashmereradio.com) | community experimental radio station based in Wedding, Berlin
 
 ## misc
 
