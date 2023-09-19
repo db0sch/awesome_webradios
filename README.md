@@ -7,7 +7,7 @@ A list of cool web radios
 - WorldwideFM - [website](http://worldwidefm.net/) | currated by the great and only Gilles Peterson
 - NTS - [website](https://www.nts.live/) | london radio featuring Moxie, Floating Points, Four Tet...
 - Rinse FM - [website](http://rinse.fm/) | one of the most famous web radio - really into techno / house
-- Red Light Radio - [website](http://redlightradio.net/) | amsterdam radio
+- Echobox - [website](https://echobox.radio/) | amsterdam radio
 - The Lot - [website](http://www.thelotradio.com/) | brooklyn radio
 - Radar Radio - [website](http://www.radarradio.com/) | london radio
 - Soho Radio - [website](http://www.sohoradiolondon.com/) | london radio
@@ -21,6 +21,8 @@ A list of cool web radios
 - FluxFM - [website](https://www.fluxfm.de/) | berlin radio (Die Alternative im Radio)
 - Hör Berlin - [website](https://hoer.live) | berlin radio (techno)
 - Cashmere Radio - [website](https://cashmereradio.com) | community experimental radio station based in Wedding, Berlin
+- Radio Tempo Não Pára - [website](https://radio-tnp.com) | amsterdam radio
+- Radio Vilnius - [website](https://radiovilnius.live/) | vilnius radio
 
 ## misc
 
